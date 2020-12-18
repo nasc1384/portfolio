@@ -1,0 +1,68 @@
+*{margin: 0}
+
+html{font-size: 10px;}
+body{font-size: 1rem;}
+a{text-decoration: none;color: #ffffff;}
+
+header{height: 6rem;text-align: center;}
+header > .logo{padding-top: 1rem;}
+
+section > .keyvisual{text-align: center;background-image: url('../img/m_02.png');height: 66rem;}
+section > .keyvisual > img{padding-top: 25.2rem;}
+
+section > .profile{background-image: url('../img/m_04.png');height: 134.9rem;}
+
+.pf_01, .pf_02, .pf_03, .pf_04{text-align: center;}
+section > .profile > .pf_01{padding-top: 5.9rem;padding-right: 16.1rem;}
+section > .profile > .pf_02{padding-top: 5.1rem;padding-right: 1.4rem;}
+section > .profile > .pf_03{padding-top: 6.9rem;padding-right: 0.5rem;}
+section > .profile > .pf_04{padding-top: 6.9rem;padding-right: 1.4rem;}
+
+.pf1, .pf1_1, .pf1_2, .pf2, .pf2_1, .pf2_2, .pf3, .pf3_1, .pf4, .pf4_1, .pf5, .pf5_1, .pf5_2, .pf5_3, .pf6, .pf6_1, .pf6_2, .pf7, .pf7_1, .pf7_2{text-align: center;}
+section > .pf1{background-image: url('../img/m_p_01.png');height: 45.6rem;}
+section > .pf1 > img{padding-top: 2.8rem;}
+section > .pf1_1{background-color:  #EFEFEF;height: 83.6rem;}
+section > .pf1_1 > img{padding-top: 3.9rem;}
+section > .pf1_2{background-color:  #AAB6CF;height: 59.8rem;}
+section > .pf1_2 > img{padding-top: 2rem;}
+
+section > .pf2{background-image: url('../img/m_p_05.png');height: 45.6rem;}
+section > .pf2 > img{padding-top: 2.8rem;}
+section > .pf2_1{background-color:  #EFEFEF;height: 83.6rem;}
+section > .pf2_1 > img{padding-top: 4rem;}
+section > .pf2_2{background-color:  #9AADBB;height: 83.1rem;}
+section > .pf2_2 > img{padding-top: 3.4rem;}
+
+section > .pf3{background-image: url('../img/m_p_09.png');height: 45.6rem;}
+section > .pf3 > img{padding-top: 2.8rem;}
+section > .pf3_1{background-color:  #EFEFEF;height: 87.1rem;}
+
+section > .pf4{background-image: url('../img/m_p_12.png');height: 45.6rem;}
+section > .pf4 > img{padding-top: 2.8rem;}
+section > .pf4_1{background-color:  #EFEFEF;height: 78.4rem;}
+section > .pf4_1 > img{padding-top: 5.7rem;}
+
+section > .pf5{background-image: url('../img/m_p_15.png');height: 45.6rem;}
+section > .pf5_1{background-color:  #EFEFEF;height: 118.7rem;}
+section > .pf5_1 > img{padding-top: 2.2rem;}
+section > .pf5_2{background-color:  #ACB9C4;height: 52.9rem;}
+section > .pf5_2 > img{padding-top: 3.6rem;}
+section > .pf5_3{background-color:  #EBEBEB;height: 35.2rem;}
+section > .pf5_3 > img{padding-top: 4.8rem;}
+
+section > .pf6{background-image: url('../img/m_p_20.png');height: 45.6rem;}
+section > .pf6 > img{padding-top: 2.8rem;}
+section > .pf6_1{background-color:  #EBEBEB;height: 78.1rem;}
+section > .pf6_1 > img{padding-top: 2.6rem;}
+section > .pf6_2{background-color:  #EBD4B3;height: 39.2rem;}
+section > .pf6_2 > img{padding-top: 2.8rem;}
+
+section > .pf7{background-image: url('../img/m_p_28.png');height: 45.6rem;}
+section > .pf7 > img{padding-top: 2.8rem;}
+section > .pf7_1{background-color:  #EFEFEF;height: 77.2rem;}
+section > .pf7_1 > img{padding-top: 2.9rem;}
+section > .pf7_2{background-color:  #B3EAC2;height: 38.5rem;}
+section > .pf7_2 > img{padding-top: 5.6rem;}
+
+footer{background-color: #B9B9B9;height: 12.3rem;text-align: center;}
+footer > img{padding-top: 1.8rem;}
